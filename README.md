@@ -1,3 +1,3 @@
 # stat585-spring2023
 
-first repository
+# hello, this is Haoming Wang
